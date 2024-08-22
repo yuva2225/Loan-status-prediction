@@ -1,9 +1,9 @@
 # Loan status Predicition Using Machine Learning
 Author = Yuva kishore
 Licence = The above information is public for all
-# Dataset 
+**Dataset** 
 Data : https://www.kaggle.com/datasets/ninzaami/loan-predication
-# Project Description
+**Project Description**
 I have taken the Parameters as a Data. The parameter inculde all the requirments to predict either a person is eligible for loan or not.
 I have extracted the dataset and performed Exploratory data analysis
 Imported all the metrics to built and evaluate the model
