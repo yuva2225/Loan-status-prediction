@@ -23,8 +23,13 @@ Imported all the metrics to built and evaluate the model
 . I have used five algorithm for better accuracy
 
 . Decison tree
+
 . Random forest
+
 . Linear regression
+
 . Logistic regression
+
 . Support Vector Machine
+
 SVM and Linear regession gave best accuracy compare to others so I have used those two to built the model
